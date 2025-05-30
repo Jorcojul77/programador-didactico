@@ -1,6 +1,6 @@
 # Programación Didáctica – Informatica
 
-**Docente**:   
+**Docente**: José Lopez  
 **Centro educativo**:   
 **Curso académico**:   
 
@@ -22,7 +22,13 @@
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- CMCT
+
+- CD
+
+- AA
+
 
 
 ### Contenidos

@@ -11,28 +11,32 @@
 - **Etapa educativa**: Secundaria
 - **Curso**: 3 ESO
 - **Asignatura**: Ecuacación Plástica y Visual
-- **N.º de unidades didácticas**: 
+- **N.º de unidades didácticas**: 3
 
 ---
 
 ## 2. Elementos Curriculares
 
 ### Objetivos
-
+43
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Comunicación lingüística
+
+- Matemática, ciencia y tecnología
+
 
 
 ### Contenidos
-
+wwww
 
 ### Criterios de Evaluación
-
+w
 
 ### Estándares de Aprendizaje Evaluables
-
+w
 
 ---
 
@@ -40,22 +44,22 @@ _No se han especificado competencias._
 
 - **Enfoque metodológico**: ABP
 - **Técnicas y estrategias**:  
-  
-- **Instrumentos de evaluación**: 
+  w
+- **Instrumentos de evaluación**: w
 
 ---
 
 ## 4. Temporalización
 
-- **Duración del curso**: 
+- **Duración del curso**: 1
 - **Secuenciación**:  
-  
+  12
 
 ---
 
 ## 5. Atención a la Diversidad
 
-
+1
 
 ---
 

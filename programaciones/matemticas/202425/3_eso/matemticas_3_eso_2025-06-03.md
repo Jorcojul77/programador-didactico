@@ -71,7 +71,7 @@ _No se han especificado competencias._
 
 ## 7. Exportación y Repositorio
 
-- **Formato de exportación solicitado**: md
+- **Formato de exportación solicitado**: pdf
 - **Subida a GitHub/GitLab**: ✅ Sí
 
   - Usuario Git: Jorcojul77

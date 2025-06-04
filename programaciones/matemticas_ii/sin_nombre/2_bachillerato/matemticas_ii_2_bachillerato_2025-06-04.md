@@ -49,29 +49,29 @@ _No se han especificado competencias._
 
 - **Duración del curso**: 
 - **Secuenciación**:  
-  
+  w
 
 ---
 
 ## 5. Atención a la Diversidad
 
-
+w
 
 ---
 
 ## 6. Recursos
 
 - **Materiales didácticos**:  
-  
+  w
 - **Recursos digitales**:  
-  
+  w
 - **Espacios utilizados**: 
 
 ---
 
 ## 7. Exportación y Repositorio
 
-- **Formato de exportación solicitado**: pdf
+- **Formato de exportación solicitado**: md
 - **Subida a GitHub/GitLab**: ✅ Sí
 
   - Usuario Git: Jorcojul77

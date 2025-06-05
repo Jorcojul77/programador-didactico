@@ -1,7 +1,7 @@
 # Programación Didáctica – Historia de España
 
-**Docente**: Almudena Diaz  
-**Centro educativo**: La Marina  
+**Docente**: Jorge Correa Julve  
+**Centro educativo**: Mestalla  
 **Curso académico**: 2024-25  
 
 ---
@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 2º Bachillerato
 - **Asignatura**: Historia de España
-- **N.º de unidades didácticas**: 6
+- **N.º de unidades didácticas**: 3
 
 ---
 

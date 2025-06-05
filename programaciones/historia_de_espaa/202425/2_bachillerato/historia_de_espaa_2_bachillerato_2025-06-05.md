@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 2º Bachillerato
 - **Asignatura**: Historia de España
-- **N.º de unidades didácticas**: 3
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -22,12 +22,6 @@ mejorar todo
 
 ### Competencias Clave
 
-
-- Comunicación lingüística
-
-- Matemática, ciencia y tecnología
-
-- Competencia digital
 
 - Sociales y cívicas
 

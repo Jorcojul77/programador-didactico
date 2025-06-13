@@ -27,8 +27,8 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Autoconocimiento. Valoración de fortalezas y debilidades. Autoconce pto positivo.
-- La desigual distribución de las masas de agua en la península y las islas. Las
+- Los desequilibrios y contrastes territoriales. Las políticas estatales de cohesión
+- La población española. Fuentes para el estudio de la población: los censos, los
 
 ### Criterios de Evaluación
 ## Unidad 1

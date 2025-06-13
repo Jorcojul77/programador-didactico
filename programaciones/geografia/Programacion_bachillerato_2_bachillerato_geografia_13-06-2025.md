@@ -27,8 +27,8 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- El sector servicios. La terciarización de la economía española: la creciente
-- Uso de herramientas TIC para organizar (marcadores sociales, hojas de cálculo),
+- Diálogo igualitario.
+- Conocimiento de estructuras y técnicas de aprendizajes cooperativo.
 
 ### Criterios de Evaluación
 ## Unidad 1
@@ -75,7 +75,11 @@ _No se han especificado competencias._
 ## 7. Exportación y Repositorio
 
 - **Formato de exportación solicitado**: 
-- **Subida a GitHub/GitLab**: ❌ No
+- **Subida a GitHub/GitLab**: ✅ Sí
+
+  - Usuario Git: Jorcojul77
+  - Repositorio: programador-didactico
+  - Licencia: CC BY-SA
 
 
 ---

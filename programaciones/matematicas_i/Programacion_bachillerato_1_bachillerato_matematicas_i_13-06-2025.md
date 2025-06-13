@@ -26,12 +26,10 @@ _No se han especificado competencias._
 
 
 ### Contenidos
-## Unidad 1
-- Pensamiento causal y consecuencial.
-- Función derivada.
+<div></div>
 
 ### Criterios de Evaluación
-## Unidad 1
+<div></div>
 
 
 ### Estándares de Aprendizaje Evaluables

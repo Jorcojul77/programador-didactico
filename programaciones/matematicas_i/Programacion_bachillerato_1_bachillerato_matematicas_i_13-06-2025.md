@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 4
 
 ---
 
@@ -27,11 +27,32 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Uso de las herramientas más comunes de las TIC para colaborar y comunicarse
-- Estudios y profesiones vinculados con los conocimientos del área.
+- Técnicas de escucha activa.
+- Representación gráfica de funciones, después de un estudio completo de sus
+
+## Unidad 2
+- Cálculo de derivadas. Regla de la cadena.
+- Concepto de límite de una función en un punto y en el infinito.
+
+## Unidad 3
+- Resolución e interpretación de sistemas de ecuaciones lineales. Método de
+- Representación gráfica.
+
+## Unidad 4
+- Estudio de la dependencia de dos variables estadísticas. Representación
+- Pensamiento alternativo.
 
 ### Criterios de Evaluación
 ## Unidad 1
+
+
+## Unidad 2
+
+
+## Unidad 3
+
+
+## Unidad 4
 
 
 ### Estándares de Aprendizaje Evaluables

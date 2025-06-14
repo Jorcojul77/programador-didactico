@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 2º Bachillerato
 - **Asignatura**: Geografía
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 4
 
 ---
 
@@ -26,12 +26,9 @@ _No se han especificado competencias._
 
 
 ### Contenidos
-## Unidad 1
-- Los desequilibrios y contrastes territoriales. Las políticas estatales de cohesión
-- La población española. Fuentes para el estudio de la población: los censos, los
+
 
 ### Criterios de Evaluación
-## Unidad 1
 
 
 ### Estándares de Aprendizaje Evaluables

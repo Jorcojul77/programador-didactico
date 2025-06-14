@@ -27,7 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Números reales: estudio para la comprensión de la realidad.
+- Edición de ecuaciones.
 - Responsabilidad y sentido ético.
 
 ### Criterios de Evaluación

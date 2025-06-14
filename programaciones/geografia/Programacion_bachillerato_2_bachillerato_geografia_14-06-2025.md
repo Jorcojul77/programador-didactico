@@ -26,9 +26,33 @@ _No se han especificado competencias._
 
 
 ### Contenidos
+## Unidad 1
+- Autorregulación de emociones, control de la ansiedad e incertidumbre y
+- Lectura e interpretación de diversos tipos de documentos cartográficos, como
 
+## Unidad 2
+- Uso de herramientas TIC para organizar (marcadores sociales, hojas de cálculo),
+- Las interrelaciones naturaleza -sociedad. Reflexión sobre las repercusiones
+
+## Unidad 3
+- Evaluación de procesos y resultados. Valoración del error como oportunidad.
+- Estrategias para la elaboración de guiones o planes para indagar sobre hechos
+
+## Unidad 4
+- Técnicas de escucha activa: parafrasear, resumir.
+- Las fuentes de energía y el espacio industrial. El proceso de industrialización
 
 ### Criterios de Evaluación
+## Unidad 1
+
+
+## Unidad 2
+
+
+## Unidad 3
+
+
+## Unidad 4
 
 
 ### Estándares de Aprendizaje Evaluables

@@ -20,33 +20,28 @@
 ### Objetivos
 
 
-### Competencias Clave
-
-_No se han especificado competencias._
-
-
 ### Contenidos
 ## Unidad 1
-o Procedimientos de cita y paráfrasis. Bibliografía y webgrafía.
+o Aplicación de las normas ortográficas y gramaticales (signos de puntuación, 
+concordancia entre los elementos de la oración, uso de conectores oracionales, 
+etc.) y las propias del lenguaje matemático.
 
 ## Unidad 2
-o Pensamiento medios -fin:
+o Herramientas digitales de búsqueda y visualización. Búsqueda en redes 
+sociales, blogs, wikis, foros, páginas web especializadas en contenidos 
+matemáticos, diccionarios y enciclopedias online, bases de datos especializadas 
+(INE, IVE, etc.) o m ediante la sindicación de fuentes de contenidos (RSS).
 
 ## Unidad 3
-o Evaluación de procesos y resultados.
+o Pensamiento alternativo.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Manipular el lenguaje algebraico en polinomios, fracciones algebraicas, 
-ecuaciones, sistemas de ecuaciones, inecuaciones y funciones con los 
-procedimientos (algoritmos) más adecuados, para resolver situaciones de 
-ámbito científico con el apoyo de medios tecnológicos (sensores, calculadoras 
-gráficas, etc.) que nos ayuden a interpretarlas  
+o Reconocer la terminología conceptual de las matemáticas adecuadas al nivel 
+educativo y utilizarla correctamente en actividades orales y escritas del ámbito 
+personal, acad émico, social o profesional.  
  
-COMPETENCIAS : CD, CA A, CMCT  
- 
- 
-Bloque 3: Análisis
+COMPETENCIAS : CCLI,  CMCT
 
 ## Unidad 2
 o Expresar oralmente textos previamente planificados de contenido matemático, 
@@ -59,12 +54,18 @@ lenguaje no discriminatorio.
 COMPETENCIAS : CCLI, CAA, CMCT
 
 ## Unidad 3
-o Interpretar textos orales con contenido matemático del nivel educativo, 
-procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
-para obtener información y aplicarla en la reflexión sobre el contenido, la 
-ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
+o Analizar distribuciones bidimensionales mediante los parámetros estadísticos 
+más usuales, el coeficiente de correlación y la recta de regresión, con las 
+herramientas tecnológicas más adecuadas (calculadora gráfica, aplicaciones de 
+escritorio, web o para dispositivos móviles, como hojas de cálculo), para tomar 
+decisiones en contextos científicos.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CD, CAA, CMCT
+
+### Competencias Clave
+
+_No se han especificado competencias._
+
 
 ### Estándares de Aprendizaje Evaluables
 

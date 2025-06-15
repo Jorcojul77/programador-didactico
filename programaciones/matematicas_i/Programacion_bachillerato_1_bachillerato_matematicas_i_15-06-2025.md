@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 3
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -27,23 +27,26 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Técnicas de escucha activa.
+o Medida de un ángulo en radianes.
 
 ## Unidad 2
-- Estrategias lingüísticas y no lingüísticas: inicio, mantenimiento y conclusión;
-
-## Unidad 3
-- Proceso estructu rado de toma de decisiones.
+o Resolución de triángulos.
 
 ### Criterios de Evaluación
 ## Unidad 1
-- Buscar y seleccionar información en diversas fuentes de forma contrastada y
+o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
+ 
+COMPETENCIAS : CD, C MT
 
 ## Unidad 2
-- Expresar oralmente textos previamente planificados de contenido matemático,
-
-## Unidad 3
-- Utilizar los elementos de la geometría analítica plana (vectores, bases,
+o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
+ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
+sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
+adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
+programas de geometría dinámica), para resolver situaciones de medida en 
+contextos científicos.  
+ 
+COMPETENCIAS : CMT, CD
 
 ### Estándares de Aprendizaje Evaluables
 

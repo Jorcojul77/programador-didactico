@@ -27,7 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Cálculo de derivadas. Regla de la c adena.
+- Proceso estructurado de toma de decisiones. Calibrado de oportunidades y
 
 ### Criterios de Evaluación
 ## Unidad 1

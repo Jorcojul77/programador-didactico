@@ -27,8 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Representación gráfica de funciones, después de un estudio completo de sus
-- Respeto e n el uso del lenguaje. Precisión en la expresión de ideas matemáticas.
+- Hábitos y conductas  para filtrar la fuente de información más completa y
 
 ### Criterios de Evaluación
 ## Unidad 1

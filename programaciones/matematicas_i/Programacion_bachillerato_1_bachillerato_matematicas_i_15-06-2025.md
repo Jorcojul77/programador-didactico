@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 3
 
 ---
 
@@ -27,11 +27,23 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Estadística descriptiva bidimensional: Tablas de contingencia. Distribución
+- Técnicas de escucha activa.
+
+## Unidad 2
+- Estrategias lingüísticas y no lingüísticas: inicio, mantenimiento y conclusión;
+
+## Unidad 3
+- Proceso estructu rado de toma de decisiones.
 
 ### Criterios de Evaluación
 ## Unidad 1
-- Crear y editar contenidos digitales como documentos de texto, presentaciones
+- Buscar y seleccionar información en diversas fuentes de forma contrastada y
+
+## Unidad 2
+- Expresar oralmente textos previamente planificados de contenido matemático,
+
+## Unidad 3
+- Utilizar los elementos de la geometría analítica plana (vectores, bases,
 
 ### Estándares de Aprendizaje Evaluables
 

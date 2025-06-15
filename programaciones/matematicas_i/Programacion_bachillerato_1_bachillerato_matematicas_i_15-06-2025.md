@@ -27,7 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Activación de conocimientos previos.
+- Cálculo de derivadas. Regla de la c adena.
 
 ### Criterios de Evaluación
 ## Unidad 1

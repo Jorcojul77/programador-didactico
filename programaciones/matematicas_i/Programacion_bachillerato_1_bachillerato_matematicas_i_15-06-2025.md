@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 2
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -27,26 +27,20 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-o Medida de un ángulo en radianes.
-
-## Unidad 2
-o Resolución de triángulos.
+o Proceso estructu rado de toma de decisiones.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
+o Escribir textos (continuos o discontinuos, proceso de resolución problemas, 
+informes relativos a investigaciones matemáticas, materiales didácticos para uso 
+propio o de otros y comentario de textos con contenido matemático) del ámbito 
+personal, académico, social o profesional en diversos formatos y soportes, 
+cuidando sus aspectos formales, aplicando las normas de corrección ortográfica 
+y gramatical del nivel educativo  y ajustados a las propiedades textuales de cada 
+tipo y  situación comunicativa, para tran smitir de forma organizada sus 
+conocimientos con un lenguaje no discriminatorio.  
  
-COMPETENCIAS : CD, C MT
-
-## Unidad 2
-o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
-ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
-sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
-adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
-programas de geometría dinámica), para resolver situaciones de medida en 
-contextos científicos.  
- 
-COMPETENCIAS : CMT, CD
+COMPETENCIAS : CCLI, CAA, CMCT
 
 ### Estándares de Aprendizaje Evaluables
 

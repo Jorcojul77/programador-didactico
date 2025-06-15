@@ -27,7 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Proceso estructurado de toma de decisiones. Calibrado de oportunidades y
+- Estrategias de comprensión oral:
 
 ### Criterios de Evaluación
 ## Unidad 1

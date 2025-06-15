@@ -27,7 +27,7 @@ _No se han especificado competencias._
 
 ### Contenidos
 ## Unidad 1
-- Hábitos y conductas  para filtrar la fuente de información más completa y
+- Activación de conocimientos previos.
 
 ### Criterios de Evaluación
 ## Unidad 1

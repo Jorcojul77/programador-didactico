@@ -22,23 +22,29 @@
 
 ### Contenidos
 ## Unidad 1
-o Identificación de las palabras claves del enunciado.
+o Estrategias de comprensión oral:
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Colaborar y comunicarse para construir un producto o tarea colectiva filtrando y 
-compartiendo información y contenidos digitales seleccionando la herramienta 
-de comunicación TIC, servicio de la web social o módulo en entornos virtuales 
-de aprendizaje más apropiado. Aplicar buenas formas de conducta en la 
-comunicación y prevenir, denunciar y proteger a otros de las malas prácticas 
-como el ciberacoso.  
+o Escribir textos (continuos o discontinuos, proceso de resolución problemas, 
+informes relativos a investigaciones matemáticas, materiales didácticos para uso 
+propio o de otros y comentario de textos con contenido matemático) del ámbito 
+personal, académico, social o profesional en diversos formatos y soportes, 
+cuidando sus aspectos formales, aplicando las normas de corrección ortográfica 
+y gramatical del nivel educativo  y ajustados a las propiedades textuales de cada 
+tipo y  situación comunicativa, para tran smitir de forma organizada sus 
+conocimientos con un lenguaje no discriminatorio.  
  
-COMPETENCIAS : CD, C SC
+COMPETENCIAS : CCLI, CAA, CMCT
 
 ### Competencias Clave
 
 
-- Competencia digital
+- Matemática, ciencia y tecnología
+
+- Aprender a aprender
+
+- Comunicación lingüística
 
 
 

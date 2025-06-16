@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -22,16 +22,25 @@
 
 ### Contenidos
 ## Unidad 1
-o Estrategias de comprensión de enunciado:
+o Propiedades textuales de la situación comunicativa: adecuación, coherencia y 
+cohesión.
+
+## Unidad 2
+o Memorización.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Expresar oralmente textos previamente planificados de contenido matemático, 
-del ámbito personal, académico, social o profesional, con una pronunciación 
-clara,  aplicando las normas de la prosodia y la corrección gramatical del nivel 
-educativo y ajustados a las propiedades textuales de cada tipo y situación 
-comunicativa, para transmitir de forma organizada sus conocimientos con un 
-lenguaje no discriminatorio.  
+o Utilizar los elementos de la geometría analítica plana (vectores, bases, 
+ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad, 
+etc.) y operaciones para resolver situaciones geométricas en contextos 
+académicos.  
+ 
+COMPETENCIAS : CMT
+
+## Unidad 2
+o presentación de los contenidos; para ampliar sus conocimientos y elaborar 
+textos del ámbito personal, académico, social o profesional y del nivel educativo, 
+citando adecuadamente su procedencia.   
  
 COMPETENCIAS : CCLI, CAA, CMCT
 
@@ -40,9 +49,9 @@ COMPETENCIAS : CCLI, CAA, CMCT
 
 - Comunicación lingüística
 
-- Matemática, ciencia y tecnología
-
 - Aprender a aprender
+
+- Matemática, ciencia y tecnología
 
 
 

@@ -22,17 +22,18 @@
 
 ### Contenidos
 ## Unidad 1
-o Análisis del público destinatario y adaptación de la comunicación en función del 
-mismo.
+o Estrategias de supervisión y resolución de problemas.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Utilizar los elementos de la geometría analítica plana (vectores, bases, 
-ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad, 
-etc.) y operaciones para resolver situaciones geométricas en contextos 
-académicos.  
+o Expresar oralmente textos previamente planificados de contenido matemático, 
+del ámbito personal, académico, social o profesional, con una pronunciación 
+clara,  aplicando las normas de la prosodia y la corrección gramatical del nivel 
+educativo y ajustados a las propiedades textuales de cada tipo y situación 
+comunicativa, para transmitir de forma organizada sus conocimientos con un 
+lenguaje no discriminatorio.  
  
-COMPETENCIAS : CMT
+COMPETENCIAS : CCLI, CAA, CMCT
 
 ### Competencias Clave
 

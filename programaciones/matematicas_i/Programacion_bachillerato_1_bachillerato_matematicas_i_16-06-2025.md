@@ -26,14 +26,23 @@ o Buscar semejanzas con otros problemas ya resueltos.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Buscar y seleccionar información a partir de una estrategia de filtrado y de forma 
-contrastada en medios digitales como (redes sociales, páginas web 
-especializadas en contenidos matemáticos, diccionarios y enciclopedias online, 
-bases de datos especializadas, etc.), registrándola en papel de forma cuidadosa
+o Crear y editar contenidos digitales como documentos de texto, presentaciones 
+multimedia y producciones audiovisuales con sentido estético utilizando 
+aplicaciones informáticas de escritorio o servicios de la web para elaborar 
+informes relativos a investigaciones matemáticas y materiales didácticos para 
+uso propio o de otros, conociendo cómo aplicar los diferentes tipos licencias.  
+ 
+COMPETENCIAS : CD, CMCT  
+ 
+Bloque 2: Números y álgebra
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Matemática, ciencia y tecnología
+
+- Competencia digital
+
 
 
 ### Estándares de Aprendizaje Evaluables

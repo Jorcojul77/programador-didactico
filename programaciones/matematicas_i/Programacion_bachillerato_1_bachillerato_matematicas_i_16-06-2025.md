@@ -22,20 +22,24 @@
 
 ### Contenidos
 ## Unidad 1
-o Procedimientos de presentación de contenidos
+o Identificación de las palabras claves del enunciado.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Utilizar los elementos de la geometría analítica plana (vectores, bases, 
-ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad, 
-etc.) y operaciones para resolver situaciones geométricas en contextos 
-académicos.  
+o Colaborar y comunicarse para construir un producto o tarea colectiva filtrando y 
+compartiendo información y contenidos digitales seleccionando la herramienta 
+de comunicación TIC, servicio de la web social o módulo en entornos virtuales 
+de aprendizaje más apropiado. Aplicar buenas formas de conducta en la 
+comunicación y prevenir, denunciar y proteger a otros de las malas prácticas 
+como el ciberacoso.  
  
-COMPETENCIAS : CMT
+COMPETENCIAS : CD, C SC
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Competencia digital
+
 
 
 ### Estándares de Aprendizaje Evaluables

@@ -22,28 +22,20 @@
 
 ### Contenidos
 ## Unidad 1
-o Activación de conocimientos previos.
+o Procedimientos de presentación de contenidos
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Leer textos continuos o discontinuos, enunciados de problemas (numéricos, 
-gráficos, geométricos, de medida y probabilísticos), demostraciones y pequeñas 
-investigaciones matemáticas, en formatos diversos y presentados en soporte 
-papel y digital, utilizando las estrategias de comprensión lectora del nivel 
-educativo para obtener información y aplicarla en la reflexión sobre el contenido, 
-la ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
+o Utilizar los elementos de la geometría analítica plana (vectores, bases, 
+ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad, 
+etc.) y operaciones para resolver situaciones geométricas en contextos 
+académicos.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CMT
 
 ### Competencias Clave
 
-
-- Matemática, ciencia y tecnología
-
-- Comunicación lingüística
-
-- Aprender a aprender
-
+_No se han especificado competencias._
 
 
 ### Estándares de Aprendizaje Evaluables

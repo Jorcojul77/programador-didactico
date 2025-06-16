@@ -22,23 +22,28 @@
 
 ### Contenidos
 ## Unidad 1
-o Estudio de la dependencia de dos variables estadísticas. Representación 
-gráfic a: Nube de puntos.
+o Uso de las herramientas más comunes de las TIC para colaborar y comunicarse 
+con el resto del grupo con la finalidad de planificar el trabajo, aportar ideas 
+constructivas propias, comprender las ideas ajenas; compartir información y 
+recursos; y construir un producto o meta colectivo. Correo electrónico.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Reconocer la terminología conceptual de las matemáticas adecuadas al nivel 
-educativo y utilizarla correctamente en actividades orales y escritas del ámbito 
-personal, acad émico, social o profesional.  
+o Planificar tareas o proyectos, individuales o colectivos, describiendo acciones, 
+recursos materiales, plazos y responsabilidades para conseguir los objetivos 
+propuestos, adecuar el plan durante su desarrollo considerando diversas 
+alternativas para transformar las dificultades en posibilidades, evaluar el proceso 
+y el producto final y comunicar de forma creativa los resultados obtenidos con el 
+apoyo  
  
-COMPETENCIAS : CCLI,  CMCT
+COMPETENCIAS : SIEE , CAA
 
 ### Competencias Clave
 
 
-- Matemática, ciencia y tecnología
+- Aprender a aprender
 
-- Comunicación lingüística
+- Iniciativa y emprendimiento
 
 
 

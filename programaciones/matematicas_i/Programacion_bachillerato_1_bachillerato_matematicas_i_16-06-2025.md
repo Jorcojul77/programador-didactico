@@ -22,22 +22,24 @@
 
 ### Contenidos
 ## Unidad 1
-o Estrategias de supervisión y resolución de problemas.
+o Estudio de la dependencia de dos variables estadísticas. Representación 
+gráfic a: Nube de puntos.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Expresar oralmente textos previamente planificados de contenido matemático, 
-del ámbito personal, académico, social o profesional, con una pronunciación 
-clara,  aplicando las normas de la prosodia y la corrección gramatical del nivel 
-educativo y ajustados a las propiedades textuales de cada tipo y situación 
-comunicativa, para transmitir de forma organizada sus conocimientos con un 
-lenguaje no discriminatorio.  
+o Reconocer la terminología conceptual de las matemáticas adecuadas al nivel 
+educativo y utilizarla correctamente en actividades orales y escritas del ámbito 
+personal, acad émico, social o profesional.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CCLI,  CMCT
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Matemática, ciencia y tecnología
+
+- Comunicación lingüística
+
 
 
 ### Estándares de Aprendizaje Evaluables

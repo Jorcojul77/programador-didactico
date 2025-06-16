@@ -22,29 +22,27 @@
 
 ### Contenidos
 ## Unidad 1
-o Estrategias de comprensión oral:
+o Análisis del público destinatario y adaptación de la comunicación en función del 
+mismo.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Escribir textos (continuos o discontinuos, proceso de resolución problemas, 
-informes relativos a investigaciones matemáticas, materiales didácticos para uso 
-propio o de otros y comentario de textos con contenido matemático) del ámbito 
-personal, académico, social o profesional en diversos formatos y soportes, 
-cuidando sus aspectos formales, aplicando las normas de corrección ortográfica 
-y gramatical del nivel educativo  y ajustados a las propiedades textuales de cada 
-tipo y  situación comunicativa, para tran smitir de forma organizada sus 
-conocimientos con un lenguaje no discriminatorio.  
+o Crear y editar contenidos digitales como documentos de texto, presentaciones 
+multimedia y producciones audiovisuales con sentido estético utilizando 
+aplicaciones informáticas de escritorio o servicios de la web para elaborar 
+informes relativos a investigaciones matemáticas y materiales didácticos para 
+uso propio o de otros, conociendo cómo aplicar los diferentes tipos licencias.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CD, CMCT  
+ 
+Bloque 2: Números y álgebra
 
 ### Competencias Clave
 
 
 - Matemática, ciencia y tecnología
 
-- Aprender a aprender
-
-- Comunicación lingüística
+- Competencia digital
 
 
 

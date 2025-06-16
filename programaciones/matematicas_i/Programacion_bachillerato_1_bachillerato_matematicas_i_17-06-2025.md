@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 3
 
 ---
 
@@ -22,21 +22,51 @@
 
 ### Contenidos
 ## Unidad 1
-o Responsabilidad.
+o Estrategias de comprensión de enunciado:
+
+## Unidad 2
+o Números reales: estudio para la comprensión de la realidad.
+
+## Unidad 3
+o Habilidades de comunicación.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Gestionar de  forma eficaz tareas o proyectos, hacer propuestas creativas y 
-confiar en sus posibilidades, mostrar energía y entusiasmo durante su desarrollo, 
-tomar  decisiones razonadas asumiendo riesgos y responsabilizarse de las 
-propias acciones y de sus consecuencias . 
+o Colaborar y comunicarse para construir un producto o tarea colectiva filtrando y 
+compartiendo información y contenidos digitales seleccionando la herramienta 
+de comunicación TIC, servicio de la web social o módulo en entornos virtuales 
+de aprendizaje más apropiado. Aplicar buenas formas de conducta en la 
+comunicación y prevenir, denunciar y proteger a otros de las malas prácticas 
+como el ciberacoso.  
  
-COMPETENCIAS : SIEE
+COMPETENCIAS : CD, C SC
+
+## Unidad 2
+o Utilizar los números reales y sus operaciones, con los procedimientos más 
+adecuados (estimaciones, representaciones, detección de patrones y 
+regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
+en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
+(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
+ 
+COMPETENCIAS : CD, CA A, CMCT
+
+## Unidad 3
+o presentación de los contenidos; para ampliar sus conocimientos y elaborar 
+textos del ámbito personal, académico, social o profesional y del nivel educativo, 
+citando adecuadamente su procedencia.   
+ 
+COMPETENCIAS : CCLI, CAA, CMCT
 
 ### Competencias Clave
 
 
-- Iniciativa y emprendimiento
+- Aprender a aprender
+
+- Matemática, ciencia y tecnología
+
+- Comunicación lingüística
+
+- Competencia digital
 
 
 

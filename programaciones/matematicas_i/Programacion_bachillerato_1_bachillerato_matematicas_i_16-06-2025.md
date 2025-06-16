@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -22,27 +22,71 @@
 
 ### Contenidos
 ## Unidad 1
-o Análisis del público destinatario y adaptación de la comunicación en función del 
-mismo.
+o Realización, formateado sencillo e impresión de documentos de texto. Diseño de 
+presentaciones multimedia. Tratamiento de la imagen. Producción sencilla de 
+audio y vídeo. Herram ientas de producción digital en la web. Derechos de autor 
+y licencias de publicación.
+
+## Unidad 2
+o Lectura comprensiva.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Crear y editar contenidos digitales como documentos de texto, presentaciones 
-multimedia y producciones audiovisuales con sentido estético utilizando 
-aplicaciones informáticas de escritorio o servicios de la web para elaborar 
-informes relativos a investigaciones matemáticas y materiales didácticos para 
-uso propio o de otros, conociendo cómo aplicar los diferentes tipos licencias.  
+o Participar en intercambios comunicativos del ámbito personal, académico 
+(resolución de problemas en grupo), social o profesional aplicando las 
+estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
+interac ción oral, utilizando un lenguaje no discriminatorio.  
  
-COMPETENCIAS : CD, CMCT  
+COMPETENCIAS : CCLI, CAA, CMCT
+
+## Unidad 2
+o Utilizar los elementos de la geometría analítica plana (vectores, bases, 
+ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad, 
+etc.) y operaciones para resolver situaciones geométricas en contextos 
+académicos.  
  
-Bloque 2: Números y álgebra
+COMPETENCIAS : CMT
 
 ### Competencias Clave
 
 
+- Aprender a aprender
+
+- c
+
+- n
+
+- m
+
+- o
+
+- M
+
+-  
+
 - Matemática, ciencia y tecnología
 
-- Competencia digital
+- a
+
+- ,
+
+- Comunicación lingüística
+
+- á
+
+- t
+
+- i
+
+- e
+
+- g
+
+- í
+
+- y
+
+- l
 
 
 

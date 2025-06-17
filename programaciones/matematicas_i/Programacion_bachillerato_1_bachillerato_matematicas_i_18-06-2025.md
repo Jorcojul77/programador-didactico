@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 3
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -23,43 +23,19 @@
 ### Contenidos
 
 ## Unidad 1
-o Vectores libres en el plano. Operaciones geométricas.
-
-## Unidad 2
-o Autoconocimiento. Valoració n de fortalezas y debilidades Autoconcepto positivo. 
-Proactividad.
-
-## Unidad 3
-o Procedimientos de síntesis de la información
+o Diálogo igualitario.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
-ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
-sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
-adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
-programas de geometría dinámica), para resolver situaciones de medida en 
-contextos científicos.  
+o Analizar modelos funcionales (polinómicas, racionales, logarítmicos, 
+exponenciales , etc.) expresados en forma algebraica, por medio de tablas o 
+gráficamente, utilizando las herramientas adecuadas (calculadoras gráficas, 
+aplicaciones de escritorio, web o para dispositivos móviles), para describir 
+fenómenos en contextos personales, sociales, profesionales y científicos.  
  
-COMPETENCIAS : CMT, CD
-
-## Unidad 2
-o Participar en intercambios comunicativos del ámbito personal, académico 
-(resolución de problemas en grupo), social o profesional aplicando las 
-estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
-interac ción oral, utilizando un lenguaje no discriminatorio.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
-
-## Unidad 3
-o Interpretar textos orales con contenido matemático del nivel educativo, 
-procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
-para obtener información y aplicarla en la reflexión sobre el contenido, la 
-ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CD, CS, CMCT
 
 
 ### Competencias Clave
@@ -68,10 +44,6 @@ COMPETENCIAS : CCLI, CAA, CMCT
 - Matemática, ciencia y tecnología
 
 - Competencia digital
-
-- Comunicación lingüística
-
-- Aprender a aprender
 
 
 

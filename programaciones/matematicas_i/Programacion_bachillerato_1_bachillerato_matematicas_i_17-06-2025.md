@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**: Jorge Correa Julve  
-**Centro educativo**: IES Serpis  
+**Docente**:   
+**Centro educativo**:   
 **Curso académico**:   
 
 ---

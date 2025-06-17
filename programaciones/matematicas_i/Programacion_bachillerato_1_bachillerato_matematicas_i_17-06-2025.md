@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 2
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -23,35 +23,31 @@
 ### Contenidos
 
 ## Unidad 1
-o Módulos cooperativos en entornos personales de aprendizaje. Servicios de la 
-web social como blogs, wik is, foros, etc.
-
-## Unidad 2
-o Procedimientos de presentación de contenidos
+o Uso de las herramientas más comunes de las TIC para colaborar y comunicarse 
+con el resto del grupo con la finalidad de planificar el trabajo, aportar ideas 
+constructivas propias, comprender las ideas ajenas; compartir información y 
+recursos; y construir un producto o meta colectivo. Correo electrónico.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
+o Planificar tareas o proyectos, individuales o colectivos, describiendo acciones, 
+recursos materiales, plazos y responsabilidades para conseguir los objetivos 
+propuestos, adecuar el plan durante su desarrollo considerando diversas 
+alternativas para transformar las dificultades en posibilidades, evaluar el proceso 
+y el producto final y comunicar de forma creativa los resultados obtenidos con el 
+apoyo  
  
-COMPETENCIAS : CD, C MT
-
-## Unidad 2
-o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
-ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
-sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
-adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
-programas de geometría dinámica), para resolver situaciones de medida en 
-contextos científicos.  
- 
-COMPETENCIAS : CMT, CD
+COMPETENCIAS : SIEE , CAA
 
 
 ### Competencias Clave
 
 
-- Competencia digital
+- Aprender a aprender
+
+- Iniciativa y emprendimiento
 
 
 

@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**:   
-**Centro educativo**:   
+**Docente**: Jorge Correa Julve  
+**Centro educativo**: IES Serpis  
 **Curso académico**:   
 
 ---
@@ -22,13 +22,24 @@
 
 ### Contenidos
 ## Unidad 1
-o Resolución de triángulos.
+o Funciones básicas: polinómicas, racionales sencillas, valor absoluto, raíz, 
+trigonométricas, exponenciales, logarítmicas y funciones definidas a trozos.
 
 ## Unidad 2
-o Proceso estructu rado de toma de decisiones.
+o Continuidad de una función. Estudio de discontinuidades.
 
 ### Criterios de Evaluación
 ## Unidad 1
+o Expresar oralmente textos previamente planificados de contenido matemático, 
+del ámbito personal, académico, social o profesional, con una pronunciación 
+clara,  aplicando las normas de la prosodia y la corrección gramatical del nivel 
+educativo y ajustados a las propiedades textuales de cada tipo y situación 
+comunicativa, para transmitir de forma organizada sus conocimientos con un 
+lenguaje no discriminatorio.  
+ 
+COMPETENCIAS : CCLI, CAA, CMCT
+
+## Unidad 2
 o Buscar y seleccionar información sobre los entornos laborales, profesiones y 
 estudios vinculados con los conocimientos del nivel educativo, analizar los 
 conocimientos, habilidades y competencias necesarias para su desarrollo y 
@@ -37,22 +48,14 @@ la toma de decisiones vocacional.
  
 COMPETENCIAS : SIEE
 
-## Unidad 2
-o Interpretar textos orales con contenido matemático del nivel educativo, 
-procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
-para obtener información y aplicarla en la reflexión sobre el contenido, la 
-ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
-
 ### Competencias Clave
 
+
+- Matemática, ciencia y tecnología
 
 - Comunicación lingüística
 
 - Iniciativa y emprendimiento
-
-- Matemática, ciencia y tecnología
 
 - Aprender a aprender
 

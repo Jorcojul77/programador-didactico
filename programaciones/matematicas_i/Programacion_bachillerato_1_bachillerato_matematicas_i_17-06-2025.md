@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 3
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -23,58 +23,35 @@
 ### Contenidos
 
 ## Unidad 1
-o Mantenimiento de la atención.
+o Módulos cooperativos en entornos personales de aprendizaje. Servicios de la 
+web social como blogs, wik is, foros, etc.
 
 ## Unidad 2
-o Tipos de texto
-
-## Unidad 3
-o Proceso estructurado de toma de decisiones. Calibrado de oportunidades y 
-riesgos.
+o Procedimientos de presentación de contenidos
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Interpretar textos orales con contenido matemático del nivel educativo, 
-procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
-para obtener información y aplicarla en la reflexión sobre el contenido, la 
-ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
+o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CD, C MT
 
 ## Unidad 2
-o Analizar modelos funcionales (polinómicas, racionales, logarítmicos, 
-exponenciales , etc.) expresados en forma algebraica, por medio de tablas o 
-gráficamente, utilizando las herramientas adecuadas (calculadoras gráficas, 
-aplicaciones de escritorio, web o para dispositivos móviles), para describir 
-fenómenos en contextos personales, sociales, profesionales y científicos.  
+o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
+ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
+sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
+adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
+programas de geometría dinámica), para resolver situaciones de medida en 
+contextos científicos.  
  
-COMPETENCIAS : CD, CS, CMCT
-
-## Unidad 3
-o Manipular el lenguaje algebraico en polinomios, fracciones algebraicas, 
-ecuaciones, sistemas de ecuaciones, inecuaciones y funciones con los 
-procedimientos (algoritmos) más adecuados, para resolver situaciones de 
-ámbito científico con el apoyo de medios tecnológicos (sensores, calculadoras 
-gráficas, etc.) que nos ayuden a interpretarlas  
- 
-COMPETENCIAS : CD, CA A, CMCT  
- 
- 
-Bloque 3: Análisis
+COMPETENCIAS : CMT, CD
 
 
 ### Competencias Clave
 
 
-- Comunicación lingüística
-
-- Aprender a aprender
-
 - Competencia digital
-
-- Matemática, ciencia y tecnología
 
 
 

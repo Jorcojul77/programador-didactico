@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 2
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -21,44 +21,18 @@
 
 
 ### Contenidos
-## Unidad 1
-o Funciones básicas: polinómicas, racionales sencillas, valor absoluto, raíz, 
-trigonométricas, exponenciales, logarítmicas y funciones definidas a trozos.
 
-## Unidad 2
-o Continuidad de una función. Estudio de discontinuidades.
+_No se han especificado contenidos._
+
 
 ### Criterios de Evaluación
-## Unidad 1
-o Expresar oralmente textos previamente planificados de contenido matemático, 
-del ámbito personal, académico, social o profesional, con una pronunciación 
-clara,  aplicando las normas de la prosodia y la corrección gramatical del nivel 
-educativo y ajustados a las propiedades textuales de cada tipo y situación 
-comunicativa, para transmitir de forma organizada sus conocimientos con un 
-lenguaje no discriminatorio.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
 
-## Unidad 2
-o Buscar y seleccionar información sobre los entornos laborales, profesiones y 
-estudios vinculados con los conocimientos del nivel educativo, analizar los 
-conocimientos, habilidades y competencias necesarias para su desarrollo y 
-compararlas con sus propias aptitudes e intereses para generar alternati vas ante 
-la toma de decisiones vocacional.  
- 
-COMPETENCIAS : SIEE
+_No se han especificado criterios._
+
 
 ### Competencias Clave
 
-
-- Matemática, ciencia y tecnología
-
-- Comunicación lingüística
-
-- Iniciativa y emprendimiento
-
-- Aprender a aprender
-
+_No se han especificado competencias._
 
 
 ### Estándares de Aprendizaje Evaluables

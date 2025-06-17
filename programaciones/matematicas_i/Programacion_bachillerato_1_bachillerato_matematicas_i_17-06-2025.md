@@ -23,31 +23,20 @@
 ### Contenidos
 
 ## Unidad 1
-o Edición de ecuaciones.
+o Valoración de los aspectos positivos de las TIC pa ra la búsqueda y contraste de 
+información.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Leer textos continuos o discontinuos, enunciados de problemas (numéricos, 
-gráficos, geométricos, de medida y probabilísticos), demostraciones y pequeñas 
-investigaciones matemáticas, en formatos diversos y presentados en soporte 
-papel y digital, utilizando las estrategias de comprensión lectora del nivel 
-educativo para obtener información y aplicarla en la reflexión sobre el contenido, 
-la ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
+o Buscar y seleccionar información en diversas fuentes de forma contrastada y 
+organizar la información obtenida mediante diversos procedimientos de síntesis
 
 
 ### Competencias Clave
 
-
-- Matemática, ciencia y tecnología
-
-- Comunicación lingüística
-
-- Aprender a aprender
-
+_No se han especificado competencias._
 
 
 ### Estándares de Aprendizaje Evaluables

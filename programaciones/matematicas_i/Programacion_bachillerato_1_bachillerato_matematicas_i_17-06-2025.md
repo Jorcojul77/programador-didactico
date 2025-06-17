@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**:   
-**Centro educativo**:   
+**Docente**: Jorge Correa Julve  
+**Centro educativo**: IES Serpis  
 **Curso académico**:   
 
 ---
@@ -21,18 +21,25 @@
 
 
 ### Contenidos
-
-_No se han especificado contenidos._
-
+## Unidad 1
+o Autoconocimiento de aptitudes e intereses.
 
 ### Criterios de Evaluación
-
-_No se han especificado criterios._
-
+## Unidad 1
+o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
+ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
+sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
+adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
+programas de geometría dinámica), para resolver situaciones de medida en 
+contextos científicos.  
+ 
+COMPETENCIAS : CMT, CD
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Competencia digital
+
 
 
 ### Estándares de Aprendizaje Evaluables

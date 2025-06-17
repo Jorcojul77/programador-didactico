@@ -23,20 +23,29 @@
 ### Contenidos
 
 ## Unidad 1
-o Valoración de los aspectos positivos de las TIC pa ra la búsqueda y contraste de 
-información.
+o Estadística descriptiva bidimensional: Tablas de contingencia. Distribución 
+conjunta y distribuciones marginales. Medias y desviaciones típicas marginales.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Buscar y seleccionar información en diversas fuentes de forma contrastada y 
-organizar la información obtenida mediante diversos procedimientos de síntesis
+o Utilizar los números reales y sus operaciones, con los procedimientos más 
+adecuados (estimaciones, representaciones, detección de patrones y 
+regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
+en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
+(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
+ 
+COMPETENCIAS : CD, CA A, CMCT
 
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Competencia digital
+
+- Matemática, ciencia y tecnología
+
 
 
 ### Estándares de Aprendizaje Evaluables

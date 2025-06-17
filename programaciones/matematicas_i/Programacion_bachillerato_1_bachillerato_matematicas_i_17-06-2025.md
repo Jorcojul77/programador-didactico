@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 2
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -23,40 +23,21 @@
 ### Contenidos
 
 ## Unidad 1
-o Operaciones y composición de funciones. Función inversa.
-
-## Unidad 2
-o Procedimientos de cita y paráfrasis. Bibliografía y webgrafía.
+o Funciones básicas: polinómicas, racionales sencillas, valor absoluto, raíz, 
+trigonométricas, exponenciales, logarítmicas y funciones definidas a trozos.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Gestionar de  forma eficaz tareas o proyectos, hacer propuestas creativas y 
-confiar en sus posibilidades, mostrar energía y entusiasmo durante su desarrollo, 
-tomar  decisiones razonadas asumiendo riesgos y responsabilizarse de las 
-propias acciones y de sus consecuencias . 
+o Describir procesos de cambio aplicando los conceptos y el cálculo, de límites, 
+tasas de variación media y derivadas en contextos académicos y científicos . 
  
-COMPETENCIAS : SIEE
-
-## Unidad 2
-o Crear y editar contenidos digitales como documentos de texto, presentaciones 
-multimedia y producciones audiovisuales con sentido estético utilizando 
-aplicaciones informáticas de escritorio o servicios de la web para elaborar 
-informes relativos a investigaciones matemáticas y materiales didácticos para 
-uso propio o de otros, conociendo cómo aplicar los diferentes tipos licencias.  
- 
-COMPETENCIAS : CD, CMCT  
- 
-Bloque 2: Números y álgebra
+COMPETENCIAS : CMCT
 
 
 ### Competencias Clave
 
-
-- Iniciativa y emprendimiento
-
-- Competencia digital
 
 - Matemática, ciencia y tecnología
 

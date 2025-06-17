@@ -23,30 +23,34 @@
 ### Contenidos
 
 ## Unidad 1
-o Resolver un problema m ás simple.
+o Edición de ecuaciones.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Organizar un equipo de trabajo distribuyendo responsabilidades y gestionando 
-recursos para que todos sus miembros participen y alcancen las metas comunes, 
-influir positivamente en los demás ge nerando implicación en la tarea y utilizar el 
-diálogo igualitario para resolver conflictos y discrepancias actuando con 
-responsabilidad y sentido ético.  
+o Leer textos continuos o discontinuos, enunciados de problemas (numéricos, 
+gráficos, geométricos, de medida y probabilísticos), demostraciones y pequeñas 
+investigaciones matemáticas, en formatos diversos y presentados en soporte 
+papel y digital, utilizando las estrategias de comprensión lectora del nivel 
+educativo para obtener información y aplicarla en la reflexión sobre el contenido, 
+la ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
  
-COMPETENCIAS : SIEE, CAA, CSC
+COMPETENCIAS : CCLI, CAA, CMCT
 
 
 ### Competencias Clave
 
 
-- Sociales y cívicas
+- Matemática, ciencia y tecnología
+
+- Comunicación lingüística
 
 - Aprender a aprender
 
-- Iniciativa y emprendimiento
 
+
+### Estándares de Aprendizaje Evaluables
 
 
 ---

@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 3
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -22,51 +22,39 @@
 
 ### Contenidos
 ## Unidad 1
-o Estrategias de comprensión de enunciado:
+o Resolución de triángulos.
 
 ## Unidad 2
-o Números reales: estudio para la comprensión de la realidad.
-
-## Unidad 3
-o Habilidades de comunicación.
+o Proceso estructu rado de toma de decisiones.
 
 ### Criterios de Evaluación
 ## Unidad 1
-o Colaborar y comunicarse para construir un producto o tarea colectiva filtrando y 
-compartiendo información y contenidos digitales seleccionando la herramienta 
-de comunicación TIC, servicio de la web social o módulo en entornos virtuales 
-de aprendizaje más apropiado. Aplicar buenas formas de conducta en la 
-comunicación y prevenir, denunciar y proteger a otros de las malas prácticas 
-como el ciberacoso.  
+o Buscar y seleccionar información sobre los entornos laborales, profesiones y 
+estudios vinculados con los conocimientos del nivel educativo, analizar los 
+conocimientos, habilidades y competencias necesarias para su desarrollo y 
+compararlas con sus propias aptitudes e intereses para generar alternati vas ante 
+la toma de decisiones vocacional.  
  
-COMPETENCIAS : CD, C SC
+COMPETENCIAS : SIEE
 
 ## Unidad 2
-o Utilizar los números reales y sus operaciones, con los procedimientos más 
-adecuados (estimaciones, representaciones, detección de patrones y 
-regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
-en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
-(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
- 
-COMPETENCIAS : CD, CA A, CMCT
-
-## Unidad 3
-o presentación de los contenidos; para ampliar sus conocimientos y elaborar 
-textos del ámbito personal, académico, social o profesional y del nivel educativo, 
-citando adecuadamente su procedencia.   
+o Interpretar textos orales con contenido matemático del nivel educativo, 
+procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
+para obtener información y aplicarla en la reflexión sobre el contenido, la 
+ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
  
 COMPETENCIAS : CCLI, CAA, CMCT
 
 ### Competencias Clave
 
 
-- Aprender a aprender
+- Comunicación lingüística
+
+- Iniciativa y emprendimiento
 
 - Matemática, ciencia y tecnología
 
-- Comunicación lingüística
-
-- Competencia digital
+- Aprender a aprender
 
 
 

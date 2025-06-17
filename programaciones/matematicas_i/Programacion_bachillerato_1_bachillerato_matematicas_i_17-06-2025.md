@@ -23,49 +23,55 @@
 ### Contenidos
 
 ## Unidad 1
-o Lugares geométricos del plano. Cónicas: circunferencia, elipse, hipérbola y 
-parábola. Ecuación y elementos.
+o Buscar semejanzas con otros problemas ya resueltos.
 
 ## Unidad 2
-o Estrategias de comprensión de enunciado:
+o Estrategias de comprensión oral:
 
 ## Unidad 3
-o Resolver un problema m ás simple.
+o Resolución de ecuaciones no algebraicas sencillas.
 
 ## Unidad 4
-o Responsabilidad y s entido ético.
+o Estrategias de motivación y automotivación.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Utilizar los números reales y sus operaciones, con los procedimientos más 
-adecuados (estimaciones, representaciones, detección de patrones y 
-regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
-en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
-(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
+o Buscar y seleccionar información sobre los entornos laborales, profesiones y 
+estudios vinculados con los conocimientos del nivel educativo, analizar los 
+conocimientos, habilidades y competencias necesarias para su desarrollo y 
+compararlas con sus propias aptitudes e intereses para generar alternati vas ante 
+la toma de decisiones vocacional.  
  
-COMPETENCIAS : CD, CA A, CMCT
+COMPETENCIAS : SIEE
 
 ## Unidad 2
-o Participar en intercambios comunicativos del ámbito personal, académico 
-(resolución de problemas en grupo), social o profesional aplicando las 
-estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
-interac ción oral, utilizando un lenguaje no discriminatorio.  
+o Manipular el lenguaje algebraico en polinomios, fracciones algebraicas, 
+ecuaciones, sistemas de ecuaciones, inecuaciones y funciones con los 
+procedimientos (algoritmos) más adecuados, para resolver situaciones de 
+ámbito científico con el apoyo de medios tecnológicos (sensores, calculadoras 
+gráficas, etc.) que nos ayuden a interpretarlas  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CD, CA A, CMCT  
+ 
+ 
+Bloque 3: Análisis
 
 ## Unidad 3
-o presentación de los contenidos; para ampliar sus conocimientos y elaborar 
-textos del ámbito personal, académico, social o profesional y del nivel educativo, 
-citando adecuadamente su procedencia.   
- 
-COMPETENCIAS : CCLI, CAA, CMCT
+o Identificar las formas correspondientes a algunos lugares geométricos usuales, 
+estudiando sus ecuaciones y analizando sus propiedades métricas para resolver 
+situaciones geométricas en contextos académicos .
 
 ## Unidad 4
-o COMPETENCIAS : CMCT  
+o Planificar tareas o proyectos, individuales o colectivos, describiendo acciones, 
+recursos materiales, plazos y responsabilidades para conseguir los objetivos 
+propuestos, adecuar el plan durante su desarrollo considerando diversas 
+alternativas para transformar las dificultades en posibilidades, evaluar el proceso 
+y el producto final y comunicar de forma creativa los resultados obtenidos con el 
+apoyo  
  
-Bloque 5: Estadística y probabilidad
+COMPETENCIAS : SIEE , CAA
 
 
 ### Competencias Clave
@@ -73,11 +79,11 @@ Bloque 5: Estadística y probabilidad
 
 - Matemática, ciencia y tecnología
 
+- Competencia digital
+
 - Aprender a aprender
 
-- Comunicación lingüística
-
-- Competencia digital
+- Iniciativa y emprendimiento
 
 
 

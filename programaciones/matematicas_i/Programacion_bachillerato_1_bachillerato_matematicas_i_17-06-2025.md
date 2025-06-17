@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**: Jorge Correa Julve  
-**Centro educativo**: IES Serpis  
+**Docente**:   
+**Centro educativo**:   
 **Curso académico**:   
 
 ---
@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 2
+- **N.º de unidades didácticas**: 3
 
 ---
 
@@ -23,23 +23,36 @@
 ### Contenidos
 
 ## Unidad 1
-o Procedimientos de presentación de contenidos
+o Mantenimiento de la atención.
 
 ## Unidad 2
-o Resolver un problema m ás simple.
+o Tipos de texto
+
+## Unidad 3
+o Proceso estructurado de toma de decisiones. Calibrado de oportunidades y 
+riesgos.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Participar en intercambios comunicativos del ámbito personal, académico 
-(resolución de problemas en grupo), social o profesional aplicando las 
-estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
-interac ción oral, utilizando un lenguaje no discriminatorio.  
+o Interpretar textos orales con contenido matemático del nivel educativo, 
+procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
+para obtener información y aplicarla en la reflexión sobre el contenido, la 
+ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
  
 COMPETENCIAS : CCLI, CAA, CMCT
 
 ## Unidad 2
+o Analizar modelos funcionales (polinómicas, racionales, logarítmicos, 
+exponenciales , etc.) expresados en forma algebraica, por medio de tablas o 
+gráficamente, utilizando las herramientas adecuadas (calculadoras gráficas, 
+aplicaciones de escritorio, web o para dispositivos móviles), para describir 
+fenómenos en contextos personales, sociales, profesionales y científicos.  
+ 
+COMPETENCIAS : CD, CS, CMCT
+
+## Unidad 3
 o Manipular el lenguaje algebraico en polinomios, fracciones algebraicas, 
 ecuaciones, sistemas de ecuaciones, inecuaciones y funciones con los 
 procedimientos (algoritmos) más adecuados, para resolver situaciones de 

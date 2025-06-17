@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**:   
-**Centro educativo**:   
+**Docente**: Jorge Correa Julve  
+**Centro educativo**: IES Serpis  
 **Curso académico**:   
 
 ---
@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -23,24 +23,41 @@
 ### Contenidos
 
 ## Unidad 1
-o Estadística descriptiva bidimensional: Tablas de contingencia. Distribución 
-conjunta y distribuciones marginales. Medias y desviaciones típicas marginales.
+o Procedimientos de presentación de contenidos
+
+## Unidad 2
+o Resolver un problema m ás simple.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Utilizar los números reales y sus operaciones, con los procedimientos más 
-adecuados (estimaciones, representaciones, detección de patrones y 
-regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
-en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
-(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
+o Participar en intercambios comunicativos del ámbito personal, académico 
+(resolución de problemas en grupo), social o profesional aplicando las 
+estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
+interac ción oral, utilizando un lenguaje no discriminatorio.  
  
-COMPETENCIAS : CD, CA A, CMCT
+COMPETENCIAS : CCLI, CAA, CMCT
+
+## Unidad 2
+o Manipular el lenguaje algebraico en polinomios, fracciones algebraicas, 
+ecuaciones, sistemas de ecuaciones, inecuaciones y funciones con los 
+procedimientos (algoritmos) más adecuados, para resolver situaciones de 
+ámbito científico con el apoyo de medios tecnológicos (sensores, calculadoras 
+gráficas, etc.) que nos ayuden a interpretarlas  
+ 
+COMPETENCIAS : CD, CA A, CMCT  
+ 
+ 
+Bloque 3: Análisis
 
 
 ### Competencias Clave
 
+
+- Comunicación lingüística
+
+- Aprender a aprender
 
 - Competencia digital
 

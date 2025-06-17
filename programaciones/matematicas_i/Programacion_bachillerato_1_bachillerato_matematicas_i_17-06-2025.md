@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**: Jorge Correa Julve  
-**Centro educativo**: IES Serpis  
+**Docente**:   
+**Centro educativo**:   
 **Curso académico**:   
 
 ---
@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 2
 
 ---
 
@@ -22,7 +22,11 @@
 
 ### Contenidos
 ## Unidad 1
-o Autoconocimiento de aptitudes e intereses.
+o Experimentar y sacar pautas.
+
+## Unidad 2
+o Hábitos y conductas en la comunicación y en la protección del propio individuo y 
+de otros de las malas prácticas como el ciberacoso.
 
 ### Criterios de Evaluación
 ## Unidad 1
@@ -35,8 +39,15 @@ contextos científicos.
  
 COMPETENCIAS : CMT, CD
 
+## Unidad 2
+o COMPETENCIAS : CMCT  
+ 
+Bloque 5: Estadística y probabilidad
+
 ### Competencias Clave
 
+
+- Matemática, ciencia y tecnología
 
 - Competencia digital
 

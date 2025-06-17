@@ -21,35 +21,44 @@
 
 
 ### Contenidos
+
 ## Unidad 1
-o Experimentar y sacar pautas.
+o Operaciones y composición de funciones. Función inversa.
 
 ## Unidad 2
-o Hábitos y conductas en la comunicación y en la protección del propio individuo y 
-de otros de las malas prácticas como el ciberacoso.
+o Procedimientos de cita y paráfrasis. Bibliografía y webgrafía.
+
 
 ### Criterios de Evaluación
+
 ## Unidad 1
-o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
-ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
-sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
-adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
-programas de geometría dinámica), para resolver situaciones de medida en 
-contextos científicos.  
+o Gestionar de  forma eficaz tareas o proyectos, hacer propuestas creativas y 
+confiar en sus posibilidades, mostrar energía y entusiasmo durante su desarrollo, 
+tomar  decisiones razonadas asumiendo riesgos y responsabilizarse de las 
+propias acciones y de sus consecuencias . 
  
-COMPETENCIAS : CMT, CD
+COMPETENCIAS : SIEE
 
 ## Unidad 2
-o COMPETENCIAS : CMCT  
+o Crear y editar contenidos digitales como documentos de texto, presentaciones 
+multimedia y producciones audiovisuales con sentido estético utilizando 
+aplicaciones informáticas de escritorio o servicios de la web para elaborar 
+informes relativos a investigaciones matemáticas y materiales didácticos para 
+uso propio o de otros, conociendo cómo aplicar los diferentes tipos licencias.  
  
-Bloque 5: Estadística y probabilidad
+COMPETENCIAS : CD, CMCT  
+ 
+Bloque 2: Números y álgebra
+
 
 ### Competencias Clave
 
 
-- Matemática, ciencia y tecnología
+- Iniciativa y emprendimiento
 
 - Competencia digital
+
+- Matemática, ciencia y tecnología
 
 
 

@@ -1,7 +1,7 @@
 # Programación Didáctica – Matemáticas I
 
-**Docente**:   
-**Centro educativo**:   
+**Docente**: Jorge Correa Julve  
+**Centro educativo**: IES Serpis  
 **Curso académico**:   
 
 ---
@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 1
+- **N.º de unidades didácticas**: 4
 
 ---
 
@@ -21,14 +21,64 @@
 
 
 ### Contenidos
-['## Unidad 1', 'o Memorización.']
+
+## Unidad 1
+o Lugares geométricos del plano. Cónicas: circunferencia, elipse, hipérbola y 
+parábola. Ecuación y elementos.
+
+## Unidad 2
+o Estrategias de comprensión de enunciado:
+
+## Unidad 3
+o Resolver un problema m ás simple.
+
+## Unidad 4
+o Responsabilidad y s entido ético.
+
 
 ### Criterios de Evaluación
-['## Unidad 1', 'o Utilizar los elementos de la geometría analítica plana (vectores, bases,', 'ecuaciones de la recta, etc.) y sus propiedades (paralelismo, perpendicularidad,', 'etc.) y operaciones para resolver situaciones geométricas en contextos', 'académicos.', 'COMPETENCIAS : CMT']
+
+## Unidad 1
+o Utilizar los números reales y sus operaciones, con los procedimientos más 
+adecuados (estimaciones, representaciones, detección de patrones y 
+regularidades, etc.), para extraer conclusiones sobre informaciones numéricas 
+en contextos científicos con el apoyo de herramientas tecnológicas apropiadas 
+(calculadora y  aplicaciones de escritorio, web o para dispositivos móviles).  
+ 
+COMPETENCIAS : CD, CA A, CMCT
+
+## Unidad 2
+o Participar en intercambios comunicativos del ámbito personal, académico 
+(resolución de problemas en grupo), social o profesional aplicando las 
+estrategias lingüísticas y no lingüísticas del nivel educativo propias de la 
+interac ción oral, utilizando un lenguaje no discriminatorio.  
+ 
+COMPETENCIAS : CCLI, CAA, CMCT
+
+## Unidad 3
+o presentación de los contenidos; para ampliar sus conocimientos y elaborar 
+textos del ámbito personal, académico, social o profesional y del nivel educativo, 
+citando adecuadamente su procedencia.   
+ 
+COMPETENCIAS : CCLI, CAA, CMCT
+
+## Unidad 4
+o COMPETENCIAS : CMCT  
+ 
+Bloque 5: Estadística y probabilidad
+
 
 ### Competencias Clave
 
-_No se han especificado competencias._
+
+- Matemática, ciencia y tecnología
+
+- Aprender a aprender
+
+- Comunicación lingüística
+
+- Competencia digital
+
 
 
 ### Estándares de Aprendizaje Evaluables

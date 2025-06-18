@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Tecnologías de la Información y la Comunicación I
-- **N.º de unidades didácticas**: 5
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -23,81 +23,34 @@
 ### Contenidos
 
 ## Unidad 1
-• Servicios de la administración digital. Comunidades, redes y medios sociales  
-para la participación ciudadana en acciones democráticas (peticiones, 
-campañas...).
-
-## Unidad 2
-• Formatos de presentación.
-
-## Unidad 3
-• Niveles del modelo TCP/IP.
-
-## Unidad 4
-• Procedimientos de cita y paráfrasis. Bibliografía y webgrafía.
-
-## Unidad 5
-• Autorregulación de emociones, control de la ansiedad e incertidumbre y 
-capacidad de automotivación. Resiliencia, superar obstáculos y fracasos. 
-Perseverancia, flexibilidad.
+• Programación de pequeñas aplicaciones mediante un lenguaje de 
+programación determinado: para la programación de aplicaciones de 
+escritorio, para el desarrollo web, para el diseño de aplicaciones de 
+dispositivos móviles o para la creación de programas de control robótico y su 
+ejecución en plataformas de hardware. Sintaxis y semánt ica de un lenguaje 
+de programación determinado. Estructura de un programa. Variables y 
+constantes. Tipos de datos sencillos. Entrada y salida. Operadores. 
+Estructuras de control: bifurcaciones y bucles. Funciones y procedimientos  
+ 
+Bloque 6: Elementos trans versales a la asignatura.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-• Gestionar de forma eficaz tareas o proyectos, hacer propuestas creativas y 
-confiar en sus posibilidad es, mostrar energía y entusiasmo durante su 
-desarrollo, tomar  decisiones razonadas asumiendo riesgos y 
-responsabilizarse de las propias acciones y de sus consecuencias.  
- 
-COMPETENCIAS : SIEE, CAA
-
-## Unidad 2
-• Interpretar textos orales del nivel educativo procedentes de fuentes diversas 
-utilizando las estrategias de comprensión oral para obtener información y 
-aplicarla en la reflexión sobre el contenido, la ampliación de sus 
-conocimientos y la realización de tareas de aprendizaje.  
- 
-COMPETENCIAS : CCLI, CC, CAA
-
-## Unidad 3
-• Expresar oralmente textos previamente planificados, del ámbito personal, 
-académi co, social o profesional, con una pronunciación clara, aplicando las 
-normas de la prosodia y la corrección gramatical del nivel educativo y 
-ajustados a las propiedades textuales de cada tipo y situación comunicativa, 
-para transmitir de forma organizada sus  conocimientos con un lenguaje no 
-discriminatorio.  
+• Buscar y seleccionar información en diversas fuentes de forma contrastada 
+y organizar la información obtenida mediante diversos procedimientos de 
+síntesis o presentación de los contenidos; para   ampliar sus conocimientos 
+y ela borar textos del ámbito personal, académico, social o profesional y del 
+nivel educativo, citando adecuadamente su procedencia.  
  
 COMPETENCIAS : CCLI, CAA
-
-## Unidad 4
-• Escribir textos del ámbito personal, académico, social o profesional en 
-diversos formatos y soportes, cuidando sus aspectos formales, aplicando las 
-normas de corrección ortográfica y gramatical del nivel educativo y ajustados 
-a las propiedades textuales de cada tipo y situación comunicativa, para 
-transmitir de forma organizada sus conocimientos con un lenguaje no 
-discriminatori o. 
- 
-COMPETENCIAS : CCLI, CAA
-
-## Unidad 5
-• Analizar las influencias de las tecnologías de la información y la 
-comunicación en la transformación de los diversos ámbitos de la sociedad 
-actual.  
- 
-COMPETENCIAS : CSC  
- 
-Bloque 2: Arquitectura de los equipos informáticos
 
 
 ### Competencias Clave
 
 
-- Sociales y cívicas
-
 - Comunicación lingüística
-
-- Iniciativa y emprendimiento
 
 - Aprender a aprender
 

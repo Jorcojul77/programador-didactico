@@ -23,89 +23,84 @@ Desarrollar un uso responsable y creativo de las TIC.
 ### Contenidos
 
 ## Unidad 1
-• Estrategias de búsqueda y selección de la información.
+• Pensamiento causal y consec uencial.
 
 ## Unidad 2
-• Estrategias de supervisión y resolución de problemas.
+• Estrategias de comprensión oral: activación de conocimientos previos, 
+mantenimiento de la atención, selección de la información; memorización y 
+retención de la información .
 
 ## Unidad 3
-• Análisis del código fuente de un pequeño programa informático. Obtención 
-de resultados a partir de unas condiciones iniciales predeterminadas y 
-realizando las trazas de ejecución.
+• Edición e integración de información multimedia (imagen, audio y vídeo) en 
+producciones digitales. Planificación, creación y exposición de presentaciones 
+multimedia. Elaboración, formateado e impresión de informes mediante 
+documentos de te xto.
 
 ## Unidad 4
-• Hábitos y conductas para citar las fuentes de los objetos no propios utilizados en 
-los conte nidos y las fuentes impresas y electrónicas empleadas en la síntesis del 
-mismo.
+• Estrategias de comprensión lectora: antes, durante y despu és de la lectura.
 
 ## Unidad 5
-• Razones Los dispositivos físicos en la comunicación entre equipos: 
-conmutadores, enrutadores, puntos de acceso y otros elementos de 
-interconexión. Redes cableadas e inal ámbricas: características, tecnologías y 
-conexionado.
+• Conocimiento de estructuras y técnicas de aprendizajes cooperativo.
 
 ## Unidad 6
-• Prosodia. Uso intencional de la entonación y las pausas.
+• Pensamiento medios -fin.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-• Expresar oralmente textos previamente planificados, del ámbito personal, 
-académi co, social o profesional, con una pronunciación clara, aplicando las 
-normas de la prosodia y la corrección gramatical del nivel educativo y 
-ajustados a las propiedades textuales de cada tipo y situación comunicativa, 
-para transmitir de forma organizada sus  conocimientos con un lenguaje no 
-discriminatorio.  
+• Evaluar  las características del software de propósito general, los servicios 
+del SO, los controladores de periféricos y las herramientas de seguridad en 
+un equipo informático, y gestionar su configuración, instalación, eliminación 
+y actualización para adecuarlo a l entorno donde se va a utilizar.  
+ 
+COMPETENCIAS : CD, CAA  
+ 
+ 
+Bloque 3: Organización, diseño y producción de información 
+digital.
+
+## Unidad 2
+• Configurar los equipos informáticos y los dispositivos de conexión de una red 
+local para la interconexión dentro de ella y con otra red externa, evaluando y 
+seleccionando sus parámetros de configuración.  
+ 
+COMPETENCIAS : CD, CAA, SIEE  
+ 
+ 
+Bloque 5:  Programación
+
+## Unidad 3
+• Escribir textos del ámbito personal, académico, social o profesional en 
+diversos formatos y soportes, cuidando sus aspectos formales, aplicando las 
+normas de corrección ortográfica y gramatical del nivel educativo y ajustados 
+a las propiedades textuales de cada tipo y situación comunicativa, para 
+transmitir de forma organizada sus conocimientos con un lenguaje no 
+discriminatori o. 
  
 COMPETENCIAS : CCLI, CAA
 
-## Unidad 2
-• Analizar la arquitectura de una red de equipos informáticos, describiendo las 
-funciones de los niveles del modelo TCP/IP, distinguiendo la topología y los 
-dispositivos que la configuran, describiendo las tecnologías empleadas y 
-relacionándola con el área de aplicación.  
- 
-COMPETENCIAS : CMT, CD
-
-## Unidad 3
-• Crear contenidos digitales con sentido estético utilizando aplicaciones 
-informáticas que permitan la maquetación, la manipulación, el 
-procesamiento, la captura, la integración y la organización de información 
-para la realización de tareas en diversos conte xtos, su publicación y 
-exposición oral, y como instrumento de resolución de problemas.  
- 
-COMPETENCIAS : CD, CAA, SIEE, CMCT , CEC  
- 
-Bloque 4: Redes de equipos informáticos.
-
 ## Unidad 4
-• Crear aplicaciones sencillas en un lenguaje de programación determinado, 
-analizando su estructura y seleccionando la sintaxis y semántica de sus 
-construcciones básicas para la realización de proyectos y la resoluc ión de 
-problemas reale s. 
+• Diagramar problemas sencillos mediante el uso de metodologías de análisis . 
  
-COMPETENCIAS : CD, CMCT  
- 
- 
-Bloque 6: Elementos transversales a la asignatura.
+COMPETENCIAS : CD, CAA, CMCT
 
 ## Unidad 5
-• Organizar un equipo de trabajo distribuyendo responsabilidades y gestionando 
-recursos para que todos sus miembros participen y alcancen las metas 
-comunes, influir positivamente en los demás generando implicación en la tarea 
-y utilizar el diálogo igualitari o para resolver conflictos y discrepancias actuando 
-con responsabilidad y  sentido ético  
+• Analizar las influencias de las tecnologías de la información y la 
+comunicación en la transformación de los diversos ámbitos de la sociedad 
+actual.  
  
-COMPETENCIAS : SIEE, CAA, CSC
+COMPETENCIAS : CSC  
+ 
+Bloque 2: Arquitectura de los equipos informáticos
 
 ## Unidad 6
-• Interpretar textos orales del nivel educativo procedentes de fuentes diversas 
-utilizando las estrategias de comprensión oral para obtener información y 
-aplicarla en la reflexión sobre el contenido, la ampliación de sus 
-conocimientos y la realización de tareas de aprendizaje.  
+• Participar en intercambios comunicativos del ámbito personal, académico, 
+social o profesional aplicando las estrategias lingüísticas y no lingüísticas del 
+nivel educativo propias de la interacción oral utilizando un lenguaje no 
+discriminatorio.  
  
-COMPETENCIAS : CCLI, CC, CAA
+COMPETENCIAS : CCLI, CAA
 
 
 ### Competencias Clave
@@ -114,8 +109,6 @@ COMPETENCIAS : CCLI, CC, CAA
 - Sociales y cívicas
 
 - Matemática, ciencia y tecnología
-
-- Conciencia y expresiones culturales
 
 - Comunicación lingüística
 

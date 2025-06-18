@@ -18,39 +18,31 @@
 ## 2. Elementos Curriculares
 
 ### Objetivos
-
+Utilizar herramientas digitales para resolver tareas académicas.
+Desarrollar un uso responsable y creativo de las TIC.
 ### Contenidos
 
 ## Unidad 1
-• Niveles del modelo TCP/IP.
+• Configuración de las propiedades de red en un equipo informático.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-• Crear contenidos digitales con sentido estético utilizando aplicaciones 
-informáticas que permitan la maquetación, la manipulación, el 
-procesamiento, la captura, la integración y la organización de información 
-para la realización de tareas en diversos conte xtos, su publicación y 
-exposición oral, y como instrumento de resolución de problemas.  
+• Analizar la arquitectura de los equi pos informáticos y de su sistema 
+operativo, identificando y describiendo la funcionalidad y características de 
+los subsistemas o componentes que lo configuran y evaluar sus prestaciones 
+en un contexto doméstico o académico.  
  
-COMPETENCIAS : CD, CAA, SIEE, CMCT , CEC  
- 
-Bloque 4: Redes de equipos informáticos.
+COMPETENCIAS : CD, CMCT
 
 
 ### Competencias Clave
 
 
-- Conciencia y expresiones culturales
-
-- Aprender a aprender
+- Competencia digital
 
 - Matemática, ciencia y tecnología
-
-- Iniciativa y emprendimiento
-
-- Competencia digital
 
 
 

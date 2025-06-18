@@ -19,44 +19,39 @@
 
 ### Objetivos
 
-
 ### Contenidos
 
 ## Unidad 1
-• Programación de pequeñas aplicaciones mediante un lenguaje de 
-programación determinado: para la programación de aplicaciones de 
-escritorio, para el desarrollo web, para el diseño de aplicaciones de 
-dispositivos móviles o para la creación de programas de control robótico y su 
-ejecución en plataformas de hardware. Sintaxis y semánt ica de un lenguaje 
-de programación determinado. Estructura de un programa. Variables y 
-constantes. Tipos de datos sencillos. Entrada y salida. Operadores. 
-Estructuras de control: bifurcaciones y bucles. Funciones y procedimientos  
- 
-Bloque 6: Elementos trans versales a la asignatura.
+• Niveles del modelo TCP/IP.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-• Buscar y seleccionar información en diversas fuentes de forma contrastada 
-y organizar la información obtenida mediante diversos procedimientos de 
-síntesis o presentación de los contenidos; para   ampliar sus conocimientos 
-y ela borar textos del ámbito personal, académico, social o profesional y del 
-nivel educativo, citando adecuadamente su procedencia.  
+• Crear contenidos digitales con sentido estético utilizando aplicaciones 
+informáticas que permitan la maquetación, la manipulación, el 
+procesamiento, la captura, la integración y la organización de información 
+para la realización de tareas en diversos conte xtos, su publicación y 
+exposición oral, y como instrumento de resolución de problemas.  
  
-COMPETENCIAS : CCLI, CAA
+COMPETENCIAS : CD, CAA, SIEE, CMCT , CEC  
+ 
+Bloque 4: Redes de equipos informáticos.
 
 
 ### Competencias Clave
 
 
-- Comunicación lingüística
+- Conciencia y expresiones culturales
 
 - Aprender a aprender
 
+- Matemática, ciencia y tecnología
 
+- Iniciativa y emprendimiento
 
-### Estándares de Aprendizaje Evaluables
+- Competencia digital
+
 
 
 ---

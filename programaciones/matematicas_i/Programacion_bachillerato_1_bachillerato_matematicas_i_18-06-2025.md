@@ -11,7 +11,7 @@
 - **Etapa educativa**: Bachillerato
 - **Curso**: 1º Bachillerato
 - **Asignatura**: Matemáticas I
-- **N.º de unidades didácticas**: 5
+- **N.º de unidades didácticas**: 1
 
 ---
 
@@ -22,76 +22,30 @@
 ### Contenidos
 
 ## Unidad 1
-o Estrategias de motivación y automotivación.
-
-## Unidad 2
-o Autorregulación de emociones, control de la ansiedad e incertidumbre y 
-capacidad de automotivación. Resiliencia, superar obstáculos y fracasos. 
-Perseverancia, flexibilidad.
-
-## Unidad 3
-o Valoración del error como oportunidad.
-
-## Unidad 4
-o Solidaridad, tolerancia, respeto y amabilidad.
-
-## Unidad 5
-o Aplicación de las normas ortográficas y gramaticales (signos de puntuación, 
-concordancia entre los elementos de la oración, uso de conectores oracionales, 
-etc.) y las propias del lenguaje matemático.
+o Estrategias de expresión escrita: planificación, escritura , revisión y reescritura.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Aplicar diferentes estrategias, individualmente o en grupo, para la realización de 
-tareas, resolución de problemas o investigaciones matemáticas y la 
-demostración de resultados en distintos contextos (numéricos, gráficos, 
-geométricos, estadísticos o probabilísticos), comprobando e interp retando las 
-soluciones encontradas para construir nuevos conocimientos.  
+o Leer textos continuos o discontinuos, enunciados de problemas (numéricos, 
+gráficos, geométricos, de medida y probabilísticos), demostraciones y pequeñas 
+investigaciones matemáticas, en formatos diversos y presentados en soporte 
+papel y digital, utilizando las estrategias de comprensión lectora del nivel 
+educativo para obtener información y aplicarla en la reflexión sobre el contenido, 
+la ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
  
-COMPETENCIAS : CAA, CMCT
-
-## Unidad 2
-o Aplicar el cálculo de límites (en un punto y en infinito) y derivadas (reglas de  
-derivación) de funciones sencillas (polinómicas, racionales, logarítmicas y 
-exponenciales,  etc.), para representarlas mediante el estudio de propiedades 
-locales y globales (la continuidad, la tendencia, las asíntotas y la monotonía) en 
-contextos académicos y científicos  
-COMPETENCIAS : CMCT  
- 
-Bloque 4: Geometría
-
-## Unidad 3
-o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
- 
-COMPETENCIAS : CD, C MT
-
-## Unidad 4
-o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
-ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
-sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
-adecuadas (aplicaciones de escritorio, web o para dispositivos móviles como 
-programas de geometría dinámica), para resolver situaciones de medida en 
-contextos científicos.  
- 
-COMPETENCIAS : CMT, CD
-
-## Unidad 5
-o Buscar y seleccionar información a partir de una estrategia de filtrado y de forma 
-contrastada en medios digitales como (redes sociales, páginas web 
-especializadas en contenidos matemáticos, diccionarios y enciclopedias online, 
-bases de datos especializadas, etc.), registrándola en papel de forma cuidadosa
+COMPETENCIAS : CCLI, CAA, CMCT
 
 
 ### Competencias Clave
 
 
+- Comunicación lingüística
+
 - Matemática, ciencia y tecnología
 
 - Aprender a aprender
-
-- Competencia digital
 
 
 

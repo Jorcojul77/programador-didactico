@@ -22,38 +22,52 @@
 ### Contenidos
 
 ## Unidad 1
-o Operaciones y composición de funciones. Función inversa.
+o Estrategias de motivación y automotivación.
 
 ## Unidad 2
-o Identificación de datos y unidades.
+o Autorregulación de emociones, control de la ansiedad e incertidumbre y 
+capacidad de automotivación. Resiliencia, superar obstáculos y fracasos. 
+Perseverancia, flexibilidad.
 
 ## Unidad 3
-o Estrategias de filtrado en la búsqueda de la información. Almacenamiento de la 
-información digital en dispositivos informáticos y servicios de la red.
+o Valoración del error como oportunidad.
 
 ## Unidad 4
-o Distribuciones condicionadas. Independencia de variables estadísticas.
+o Solidaridad, tolerancia, respeto y amabilidad.
 
 ## Unidad 5
-o Hábitos y conductas en la comunicación y en la protección del propio individuo y 
-de otros de las malas prácticas como el ciberacoso.
+o Aplicación de las normas ortográficas y gramaticales (signos de puntuación, 
+concordancia entre los elementos de la oración, uso de conectores oracionales, 
+etc.) y las propias del lenguaje matemático.
 
 
 ### Criterios de Evaluación
 
 ## Unidad 1
-o Interpretar textos orales con contenido matemático del nivel educativo, 
-procedentes de fuentes diversas, utilizando las estrategias de comprensión oral 
-para obtener información y aplicarla en la reflexión sobre el contenido, la 
-ampliación de sus conocimientos y la realización de tareas de aprendizaje.  
+o Aplicar diferentes estrategias, individualmente o en grupo, para la realización de 
+tareas, resolución de problemas o investigaciones matemáticas y la 
+demostración de resultados en distintos contextos (numéricos, gráficos, 
+geométricos, estadísticos o probabilísticos), comprobando e interp retando las 
+soluciones encontradas para construir nuevos conocimientos.  
  
-COMPETENCIAS : CCLI, CAA, CMCT
+COMPETENCIAS : CAA, CMCT
 
 ## Unidad 2
-o Buscar y seleccionar información en diversas fuentes de forma contrastada y 
-organizar la información obtenida mediante diversos procedimientos de síntesis
+o Aplicar el cálculo de límites (en un punto y en infinito) y derivadas (reglas de  
+derivación) de funciones sencillas (polinómicas, racionales, logarítmicas y 
+exponenciales,  etc.), para representarlas mediante el estudio de propiedades 
+locales y globales (la continuidad, la tendencia, las asíntotas y la monotonía) en 
+contextos académicos y científicos  
+COMPETENCIAS : CMCT  
+ 
+Bloque 4: Geometría
 
 ## Unidad 3
+o almacenándola digi talmente en dispositivos informáticos y servicios de la red.  
+ 
+COMPETENCIAS : CD, C MT
+
+## Unidad 4
 o Aplicar fórmulas trigonométricas (teoremas del seno, coseno, tangente y las 
 ecuaciones fundamentales de la trigonometría) utilizando unidades (sistema 
 sexagesimal, sistema internacional, radianes) y herramientas tecnológicas 
@@ -63,38 +77,21 @@ contextos científicos.
  
 COMPETENCIAS : CMT, CD
 
-## Unidad 4
-o Analizar distribuciones bidimensionales mediante los parámetros estadísticos 
-más usuales, el coeficiente de correlación y la recta de regresión, con las 
-herramientas tecnológicas más adecuadas (calculadora gráfica, aplicaciones de 
-escritorio, web o para dispositivos móviles, como hojas de cálculo), para tomar 
-decisiones en contextos científicos.  
- 
-COMPETENCIAS : CD, CAA, CMCT
-
 ## Unidad 5
-o Escribir textos (continuos o discontinuos, proceso de resolución problemas, 
-informes relativos a investigaciones matemáticas, materiales didácticos para uso 
-propio o de otros y comentario de textos con contenido matemático) del ámbito 
-personal, académico, social o profesional en diversos formatos y soportes, 
-cuidando sus aspectos formales, aplicando las normas de corrección ortográfica 
-y gramatical del nivel educativo  y ajustados a las propiedades textuales de cada 
-tipo y  situación comunicativa, para tran smitir de forma organizada sus 
-conocimientos con un lenguaje no discriminatorio.  
- 
-COMPETENCIAS : CCLI, CAA, CMCT
+o Buscar y seleccionar información a partir de una estrategia de filtrado y de forma 
+contrastada en medios digitales como (redes sociales, páginas web 
+especializadas en contenidos matemáticos, diccionarios y enciclopedias online, 
+bases de datos especializadas, etc.), registrándola en papel de forma cuidadosa
 
 
 ### Competencias Clave
 
 
-- Competencia digital
-
-- Comunicación lingüística
+- Matemática, ciencia y tecnología
 
 - Aprender a aprender
 
-- Matemática, ciencia y tecnología
+- Competencia digital
 
 
 

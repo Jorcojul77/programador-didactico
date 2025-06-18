@@ -19,7 +19,6 @@
 
 ### Objetivos
 
-
 ### Contenidos
 
 ## Unidad 1
@@ -97,9 +96,6 @@ COMPETENCIAS : CCLI, CAA, CMCT
 
 - Matemática, ciencia y tecnología
 
-
-
-### Estándares de Aprendizaje Evaluables
 
 
 ---
